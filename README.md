@@ -4,7 +4,7 @@
 
 # MY ROLE: Lead Programmer
 
-Greenwatch is a simple but challenging 3D arcade game made in collaboration & for Acer Italia in Unity3D.
+Greenwatch is a simple but challenging 3D arcade game made in collaboration & commissioned from Acer Italia in Unity3D.
 The objective is simple: grow your forest and stop the city from spreading!
 
 It sensitize the forest fires targeting kids in elementary school while making them have fun!
