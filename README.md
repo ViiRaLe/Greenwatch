@@ -2,6 +2,8 @@
 
 # Winner of BEST PROJECT at Digital Bros Game Academy 
 
+# MY ROLE: Lead Programmer
+
 Greenwatch is a simple but challenging 3D arcade game made in collaboration & for Acer Italia in Unity3D.
 The objective is simple: grow your forest and stop the city from spreading!
 
@@ -22,3 +24,5 @@ Artists: 3
 Project duration: 3 weeks
 
 Tools: Unity3D, Spine, Photoshop, GIMP
+
+Activities done: UI programming, gameplay programming, AI programming, Asset creation
