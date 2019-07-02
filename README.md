@@ -25,3 +25,6 @@ Project duration: 3 weeks
 Tools: Unity3D, Spine, Photoshop, GIMP
 
 Activities done: UI programming, gameplay programming, AI programming, Asset creation
+
+
+# [RELEASE](https://github.com/ViiRaLe/Greenwatch/releases)
